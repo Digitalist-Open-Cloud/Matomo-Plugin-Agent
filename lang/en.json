@@ -1,0 +1,9 @@
+{
+    "Agent": {
+        "Top404": "Top 404",
+        "URL": "URL",
+        "Top404Urls": "Top 404 errors",
+        "ErrorCount": "Number of errors",
+        "ErrorTypes": "Error types"
+    }
+}

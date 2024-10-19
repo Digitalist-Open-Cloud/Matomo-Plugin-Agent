@@ -1,0 +1,24 @@
+{
+  "name": "Agent",
+  "description": "A plugin to handle input from the Matomo Agent",
+  "version": "0.0.1-alpha1",
+  "require": {
+    "matomo": ">=5.0.0-stable,<6.0.0-b1"
+  },
+  "theme": false,
+  "authors": [
+    {
+      "name": "Mikke Schirén",
+      "email": "mikke.schiren@digitalist.com",
+      "homepage": "https://digitalist.cloud"
+    }
+  ],
+  "support": {
+    "email": "cloud@digitalist.com",
+    "docs": "https://github.com/Digitalist-Open-Cloud/Matomo-Plugin-Agent",
+    "issues": "https://github.com/Digitalist-Open-Cloud/Matomo-Plugin-Agent/issues",
+    "source": "https://github.com/Digitalist-Open-Cloud/Matomo-Plugin-Agent"
+  },
+  "license": "GPL v3+",
+  "homepage": "https://digitalist.cloud"
+}
