@@ -1,7 +1,7 @@
 {
     "name": "Agent",
-    "description": "A plugin to handle input from the Matomo Agent",
-    "version": "0.0.1-alpha3",
+    "description": "A plugin to handle input from the Analytics Log Agent",
+    "version": "0.0.1-alpha4",
     "require": {
         "matomo": ">=5.0.1-stable,<6.0.0-b1"
     },

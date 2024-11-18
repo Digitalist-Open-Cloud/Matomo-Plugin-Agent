@@ -1,7 +1,7 @@
 <?php
 
 /**
- * The Matomo Agent plugin for Matomo.
+ * The Agent plugin for Matomo.
  *
  * Copyright (C) 2024 Digitalist Open Cloud <cloud@digitalist.com>
  *
