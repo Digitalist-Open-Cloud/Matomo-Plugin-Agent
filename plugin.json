@@ -1,7 +1,7 @@
 {
     "name": "Agent",
     "description": "A plugin to handle input from the Analytics Log Agent",
-    "version": "0.0.1-alpha4",
+    "version": "0.0.1-alpha5",
     "require": {
         "matomo": ">=5.0.1-stable,<6.0.0-b1"
     },
@@ -20,5 +20,6 @@
         "source": "https:\/\/github.com\/Digitalist-Open-Cloud\/Matomo-Plugin-Agent"
     },
     "license": "GPL v3+",
-    "homepage": "https:\/\/digitalist.cloud"
+    "homepage": "https:\/\/digitalist.cloud",
+    "keywords": []
 }
